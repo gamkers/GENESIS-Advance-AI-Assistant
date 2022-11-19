@@ -37,7 +37,7 @@ from pyttsx3 import Engine
 listener = sr.Recognizer()
 engine: Engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
-engine.setProperty('voice', voices[1].id)
+engine.setProperty('voice', voices[2].id)
 engine.setProperty('rate', 171)
 engine.setProperty('volume', 150)
 pygame.init()
@@ -215,19 +215,17 @@ def gloabl_news():
     temp = data.find_all('div', class_="News__Content__Container")
 
     talk("reading top 5 Global news")
-    notification("National News", temp[0].text)
+    notification("global News", temp[0].text)
     talk("first" + temp[0].text)
     time.sleep(1)
     notification("Global News ", temp[1].text)
-    time.sleep(2)
     talk("and second news is " + temp[1].text)
+    time.sleep(2)
     notification("Global News ", temp[2].text)
-    time.sleep(2)
     talk("then third one is " + temp[2].text)
+    time.sleep(2)
     notification("Global ", temp[3].text)
-    time.sleep(2)
     talk("last before one " + temp[3].text)
-    time.sleep(2)
     notification("Global ", temp[4].text)
     talk("last but not least " + temp[4].text)
     talk("for more info can i open the website for you sir?")
@@ -246,7 +244,7 @@ def sports_news():
     talk("getting info from top articles")
     temp = data.find_all('h2', class_="title")
     talk("reading top 5 Sports news")
-    notification("National News", temp[0].text)
+    notification("sports News", temp[0].text)
     talk("first" + temp[0].text)
     notification("Sports News ", temp[1].text)
     talk("and second news is " + temp[1].text)
@@ -716,7 +714,10 @@ def run_genesis():
 
     elif "remind me" in command:
         global reminders
-        talk("yes sir you said to remind" + reminders)
+        if reminders == "NOTHING":
+            talk("You didn't say to remind")
+        else:
+            talk("yes sir you said to remind" + reminders)
 
     elif "can you calculate" in command:
         talk("what you want to calculate sir")

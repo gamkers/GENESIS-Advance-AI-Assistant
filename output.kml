@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">/n<Document>
+<Style id="transBluePoly"><LineStyle><width>1.5</width><color>501400E6</color></LineStyle></Style><Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.393300,37.769700
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>France</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>2.329200,48.862800
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-77.472800,39.048100
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-77.475500,38.988100
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.120600,47.680100
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-78.371500,36.664800
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Netherlands</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>4.899500,52.382400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-71.050700,42.358200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-77.475500,38.988100
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-95.345400,29.966800
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-95.345400,29.966800
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.312300,47.542000
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>India</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>77.000000,20.000000
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.312300,47.542000
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.312300,47.542000
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-71.084300,42.362600
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.312300,47.542000
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.342200,47.634400
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<extrude>2</extrude>
+<tessellate>2</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-71.084300,42.362600
+72.825800,18.975000</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

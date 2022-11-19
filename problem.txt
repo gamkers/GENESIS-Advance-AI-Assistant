@@ -1,0 +1,2 @@
+scan image not working
+if translation does not work it should print not working also other lan not working
